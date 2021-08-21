@@ -1,8 +1,12 @@
-# Hello!
+# Hello! <img alt="GitHub followers" src="https://img.shields.io/github/followers/HitaloSama?style=social" /> <a href="https://twitter.com/HitaloSama"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HitaloKun?style=social"></a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HitaloSama.HitaloSama)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HitaloSama.HitaloSama)
 
-![Hitalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HitaloSama&show_icons=true)
+## Profile overview
+
+<img width="100%" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HitaloSama&show_icons=true&hide_border=true&count_private=true&theme=dark&custom_title=Hitalo's Statistics">
+
+## Additional info
 
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
@@ -16,4 +20,3 @@
 <p></p>
 <p></p>
 </p>
-
