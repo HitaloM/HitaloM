@@ -1,8 +1,5 @@
 <h2 align="center"><img align="center" src="https://64.media.tumblr.com/c9ccc2e473906c84bb0327f152a4f859/tumblr_p5xbgx3Ypi1swlmkqo1_400.png" height="54px" />  Welcome!</h2>
 
-![GitHub User's stars](https://img.shields.io/github/stars/HitaloM?style=flat-square&affiliations=OWNER%2CCOLLABORATOR&label=GitHub%20Stars)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/HitaloM?label=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/HitaloM)
-
 <table>
 
   <tr>
