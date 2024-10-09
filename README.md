@@ -24,13 +24,6 @@
   </tr>
 
   <tr>
-    <td width=430px><a href="https://github.com/HitaloM/Euclides"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HitaloM&repo=Euclides&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        Euclides is a simple calculator that performs arithmetic operations using only addition and subtraction.
-    </td>
-  </tr>
-
-  <tr>
     <td width=430px><a href="https://github.com/HitaloM/Gojira"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HitaloM&repo=Gojira&bg_color=90,306998,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
     <td>
         A bot for Telegram that provides anime and manga information through AniList
