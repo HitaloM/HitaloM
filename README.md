@@ -1,33 +1,23 @@
-<h2 align="center"><img align="center" src="https://64.media.tumblr.com/c9ccc2e473906c84bb0327f152a4f859/tumblr_p5xbgx3Ypi1swlmkqo1_400.png" height="54px" />  Welcome!</h2>
+<h2 align="center">
+    <img align="center" src="https://64.media.tumblr.com/c9ccc2e473906c84bb0327f152a4f859/tumblr_p5xbgx3Ypi1swlmkqo1_400.png" height="54px" />  
+    Hi there! I'm Hitalo
+</h2>
 
-<table>
+I'm a computer science student and developer. My curiosity and passion for computing drives me to constantly study and learn new technologies. Here are some of the languages and tools that I work with:
 
-  <tr>
-    <td width=430px><a href="https://github.com/HitaloM/Hitsuki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HitaloM&repo=Hitsuki&bg_color=90,5c252d,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        A cutting-edge and efficient Telegram Group Manager bot coded in Rust.
-    </td>
-  </tr>
+- *Rust:* Writing extremely fast programs with efficient resource management.
+- *Python:* Writing scripts and building versatile applications.
+- *Java/Kotlin:* Creating reliable and scalable applications, particularly for the Android ecosystem.
+- *SQL:* Efficiently manage and query databases.
+- *HTML:* Create structured and semantic Web content.
+- *CSS:* Design and style web pages for a visually appealing user experience.
 
-  <tr>
-    <td width=430px><a href="https://github.com/HitaloM/PyKorone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HitaloM&repo=PyKorone&bg_color=90,306998,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        Korone is a comprehensive, state-of-the-art Telegram Bot that offers a variety of features to enhance your Telegram experience.
-    </td>
-  </tr>
+## Interests
 
-  <tr>
-    <td width=430px><a href="https://github.com/hydrogram/hydrogram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hydrogram&repo=hydrogram&bg_color=90,306998,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
-    </td>
-  </tr>
+I am interested in Android development, web technologies, game development, and artificial intelligence. I enjoy exploring new technologies and finding innovative solutions to challenging problems. Check out my repositories to see some of the projects I've worked on, and feel free to reach out for feedback and collaboration!
 
-  <tr>
-    <td width=430px><a href="https://github.com/HitaloM/Gojira"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HitaloM&repo=Gojira&bg_color=90,306998,090300&title_color=fff&text_color=fff&theme=dark" /></a></td>
-    <td>
-        A bot for Telegram that provides anime and manga information through AniList
-    </td>
-  </tr>
+## Support my work
 
-</table>
+If you'd like to support my projects, consider contributing to my open source work via the following platforms:
+
+- [GitHub Sponsors](https://github.com/sponsors/HitaloM)
